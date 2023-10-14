@@ -1,0 +1,7 @@
+-npm install --save express body-parser
+-npm install --save-dev nodemon  
+-npm install --save express-graphql graphql
+-npm install --save mongoose
+-npm install --save bcryptjs
+-npm install --save jsonwebtoken
+-npx create-react-app . 
