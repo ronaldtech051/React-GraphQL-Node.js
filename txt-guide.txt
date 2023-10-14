@@ -4,4 +4,7 @@
 -npm install --save mongoose
 -npm install --save bcryptjs
 -npm install --save jsonwebtoken
+
+    frontend
 -npx create-react-app . 
+-npm install --save react-router-dom
